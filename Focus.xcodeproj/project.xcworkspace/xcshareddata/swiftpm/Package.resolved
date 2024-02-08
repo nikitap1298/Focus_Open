@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "uidevicecomplete",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Nirma/UIDeviceComplete",
+      "state" : {
+        "revision" : "9b440784a38a86bba227d50adfa8ca64d520aeb8",
+        "version" : "3.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
