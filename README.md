@@ -3,6 +3,11 @@ Focus - my first app, which I've made after 4 months of learning swift.
 This app helps to stay in focus during a specific task. You can set a specific time that cannot be changed after press "Start" button. If the timer is stopped or the app is closed, the task will fail. You can also play one of the four melodies.<br>
 <br>App Store: https://apple.co/3xjhHAs
 
+## Stack
+- Swift
+- SwiftUI
+- CoreData
+
 ## Features
 - Calendar 
 - Audio Player
